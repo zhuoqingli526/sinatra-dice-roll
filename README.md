@@ -1,4 +1,4 @@
-# ruby-template
+# sinatra-dice-roll
 
 Use this template to create new Ruby projects.
 
